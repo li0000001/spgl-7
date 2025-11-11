@@ -1,0 +1,50 @@
+# Gradle files
+.gradle
+.gradle/
+build
+build/
+*.gradle
+!gradle-wrapper.jar
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Android Studio
+.idea
+*.iml
+*.iws
+*.ipr
+*.apk
+*.ap_
+*.dex
+
+# Output
+*.aar
+*.jar
+*.exe
+*.dll
+
+# Local configuration file
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+bin/
+gen/
+out/
+
+# Kotlin
+.kotlin/
+
+# IntelliJ
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# Test coverage
+coverage/
+*.gcda
+*.gcno
