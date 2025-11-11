@@ -4,9 +4,7 @@
 build
 build/
 *.gradle
-!gradle-wrapper.jar
-gradle-wrapper.jar
-gradle-wrapper.properties
+!gradle/wrapper/gradle-wrapper.jar
 
 # Android Studio
 .idea
@@ -19,7 +17,6 @@ gradle-wrapper.properties
 
 # Output
 *.aar
-*.jar
 *.exe
 *.dll
 
