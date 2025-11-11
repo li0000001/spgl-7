@@ -1,0 +1,3 @@
+# This file ensures the gradle/wrapper directory is tracked by git
+# The gradle-wrapper.jar will be downloaded automatically by Android Studio
+# or when running: ./gradlew --version
